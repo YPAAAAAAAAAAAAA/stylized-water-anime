@@ -1,0 +1,19 @@
+{
+  "id": "stylized-water-anime",
+  "title": { "en": "Water — Anime Style", "zh": "水面 — 动漫风格" },
+  "intro": {
+    "en": "Cel-shaded anime water with ripples and GPU wave simulation. Full-bleed auto-play.",
+    "zh": "赛璐璐动漫水面，带涟漪与 GPU 波浪模拟。全屏自动播放。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/water.css",
+    "vendor/water.js",
+    "vendor/dragon-balls-model.glb",
+    "vendor/feather.glb"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "YPAAAAAAAAAAAAA/stylized-water-anime",
+  "protocol": 1
+}
